@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class CalculatorTest {
 
     private Calculator calc;
-
+    //name
     @BeforeEach
     void setUp() {
         calc = new Calculator();
